@@ -1,4 +1,4 @@
-# jogo da Velha
+# Jogo da Velha
 ### Jogo da Velha desenvolvido como projeto prático em bootcamp da DIO.ME
 
 Link Github pages: <https://andrericardoweb.github.io/jogoDaVelha-DIO/>
